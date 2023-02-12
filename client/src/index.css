@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #171a1e;
+	color: aliceblue;
+}
+
+.Menu-container {
+	display: flex;
+}
+
+#menu-char-bar {
+	display: flex;
+}
+
+#menu-char-bar p {
+	margin: 0px 20px;
+}
